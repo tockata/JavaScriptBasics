@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacfd137-ddb2-45a0-9ec1-9a6745d111df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/11-DigitAsWord/digitAsWord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/10-DigitChecker/digitChecker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/13-DigitalSoothsayer/digitalsoothsayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/12-Variables/variables.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/09-TreeOrHouse/treehouse.js" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/09-TreeOrHouse/treehouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/calcExpression.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptBasics.iws" />
@@ -31,11 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="digitalsoothsayer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/13-DigitalSoothsayer/digitalsoothsayer.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="609">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state vertical-scroll-proportion="-8.088235" vertical-offset="0" max-vertical-offset="500">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calcExpression.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/calcExpression.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16420361" vertical-offset="0" max-vertical-offset="609">
+              <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -71,6 +78,8 @@
         <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/11-DigitAsWord/digitAsWord.js" />
         <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/12-Variables/variables.js" />
         <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/13-DigitalSoothsayer/digitalsoothsayer.js" />
+        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/calcExpression.js" />
+        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/index.html" />
       </list>
     </option>
   </component>
@@ -139,7 +148,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="13-DigitalSoothsayer" />
+              <option name="myItemId" value="14-CalculateExpression" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,7 +290,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -495,6 +504,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="609">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.088235" vertical-offset="0" max-vertical-offset="500">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/14-CalculateExpression/calcExpression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16420361" vertical-offset="0" max-vertical-offset="609">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
           <folding />
         </state>
       </provider>
