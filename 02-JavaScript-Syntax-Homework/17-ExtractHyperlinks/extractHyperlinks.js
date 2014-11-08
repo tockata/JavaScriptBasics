@@ -1,3 +1,5 @@
+/** This problem is not solved yet! **/
+
 function extractHyperlinks(arr) {
     for (var i = 0; i < arr.length; i++) {
         var resultStr = arr[i].match(/<a\s+.+<\/a>/g);
