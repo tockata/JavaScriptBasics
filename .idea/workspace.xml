@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacfd137-ddb2-45a0-9ec1-9a6745d111df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" afterPath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" afterPath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" />
     </list>
     <ignored path="JavaScriptBasics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="cardFrequencies.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.041050903" vertical-offset="0" max-vertical-offset="609">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.1494253" vertical-offset="0" max-vertical-offset="850">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -91,8 +89,8 @@
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/13-ReplaceTheWhiteSpaces/spaceReplacer.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/14-Palindromes/palindromesExtract.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js" />
-        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" />
+        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" />
       </list>
     </option>
   </component>
@@ -160,42 +158,6 @@
               <option name="myItemId" value="03-JavaScript-Loops-Arrays-Strings-Homework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="16-CardsFrequencies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-JavaScript-Loops-Arrays-Strings-Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-JavaScript-Loops-Arrays-Strings-Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11-CheckTheBrackets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -219,12 +181,7 @@
       <recent name="D:\Software_University\Homeworks\JavaScriptBasics\01-JavaScript-Development-Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.bracketsChecker.js">
-    <configuration default="false" name="substringSearch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="substringSearch.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/12-SubstringCount">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.cardFrequencies.js">
     <configuration default="false" name="spaceReplacer.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="spaceReplacer.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/13-ReplaceTheWhiteSpaces">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
@@ -243,6 +200,11 @@
       <method />
     </configuration>
     <configuration default="false" name="bracketsChecker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="bracketsChecker.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cardFrequencies.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="cardFrequencies.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
@@ -285,19 +247,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.substringSearch.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.bracketsChecker.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.bracketsChecker.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.cardFrequencies.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.bracketsChecker.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.substringSearch.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.cardFrequencies.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.bracketsChecker.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
       </list>
     </recent_temporary>
   </component>
@@ -316,14 +278,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34330708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -355,7 +317,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34330708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34330708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -657,14 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/14-Palindromes/palindromesExtract.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13300492" vertical-offset="44" max-vertical-offset="675">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/18-Concerts/concerts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9441708" vertical-offset="525" max-vertical-offset="1275">
@@ -689,14 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3957307" vertical-offset="0" max-vertical-offset="1000">
-          <caret line="34" column="101" selection-start-line="34" selection-start-column="101" selection-end-line="34" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49261084" vertical-offset="0" max-vertical-offset="775">
@@ -705,10 +651,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/14-Palindromes/palindromesExtract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3196931" vertical-offset="0" max-vertical-offset="675">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13227513" vertical-offset="0" max-vertical-offset="1000">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041050903" vertical-offset="0" max-vertical-offset="609">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.1494253" vertical-offset="0" max-vertical-offset="850">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding />
         </state>
       </provider>
