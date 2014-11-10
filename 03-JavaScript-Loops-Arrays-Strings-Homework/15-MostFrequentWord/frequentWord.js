@@ -24,12 +24,12 @@ function findMostFreqWord(str) {
     var sortedKeys = Object.keys(wordFrequences).sort();
 
     for(var sortedKey in sortedKeys) {
-        if(wordFrequences[sortedKey] === maxFrequentWordCount) {
-            console.log(sortedKey + ' -> ' + wordFrequences[sortedKey] + ' times');
+        if(wordFrequences[sortedKeys[sortedKey]] === maxFrequentWordCount) {
+            console.log(sortedKeys[sortedKey] + ' -> ' + wordFrequences[sortedKeys[sortedKey]] + ' times');
         }
     }
 }
 
-findMostFreqWord('Hello my friend, hello my darling. Come on, come here. Welcome, welcome darling.');
 findMostFreqWord('in the middle of the night');
 findMostFreqWord('Welcome to SoftUni. Welcome to Java. Welcome everyone.');
+findMostFreqWord('Hello my friend, hello my darling. Come on, come here. Welcome, welcome darling.');
