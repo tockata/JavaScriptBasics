@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacfd137-ddb2-45a0-9ec1-9a6745d111df" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js" afterPath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" afterPath="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptBasics.iws" />
@@ -27,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="frequentWord.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js">
+      <file leaf-file-name="cardFrequencies.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7536946" vertical-offset="391" max-vertical-offset="1000">
-              <caret line="34" column="101" selection-start-line="34" selection-start-column="101" selection-end-line="34" selection-end-column="101" />
+            <state vertical-scroll-proportion="0.041050903" vertical-offset="0" max-vertical-offset="609">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,11 +87,12 @@
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/08-SortArray/arraySorter.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/09-MostFrequentNumber/numberFinder.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/10-ReverseString/stringReverser.js" />
-        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/12-SubstringCount/substringSearch.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/13-ReplaceTheWhiteSpaces/spaceReplacer.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/14-Palindromes/palindromesExtract.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js" />
+        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js" />
+        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js" />
       </list>
     </option>
   </component>
@@ -159,25 +161,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="15-MostFrequentWord" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-JavaScript-Loops-Arrays-Strings-Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14-Palindromes" />
+              <option name="myItemId" value="16-CardsFrequencies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,24 +197,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScriptBasics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-JavaScript-Loops-Arrays-Strings-Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09-MostFrequentNumber" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -253,12 +219,7 @@
       <recent name="D:\Software_University\Homeworks\JavaScriptBasics\01-JavaScript-Development-Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.frequentWord.js">
-    <configuration default="false" name="stringReverser.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="stringReverser.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/10-ReverseString">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.bracketsChecker.js">
     <configuration default="false" name="substringSearch.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="substringSearch.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/12-SubstringCount">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
@@ -279,6 +240,11 @@
       <RunnerSettings RunnerId="debuggableProgram" />
       <ConfigurationWrapper RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bracketsChecker.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="bracketsChecker.js" working-dir="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -319,19 +285,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.stringReverser.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.substringSearch.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.substringSearch.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.bracketsChecker.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.substringSearch.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.stringReverser.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.bracketsChecker.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.frequentWord.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.palindromesExtract.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.spaceReplacer.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.substringSearch.js" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +323,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2284041" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34330708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -675,14 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.041050903" vertical-offset="0" max-vertical-offset="609">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/12-SubstringCount/substringSearch.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9647651" vertical-offset="0" max-vertical-offset="725">
@@ -733,8 +691,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/15-MostFrequentWord/frequentWord.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7536946" vertical-offset="391" max-vertical-offset="1000">
+        <state vertical-scroll-proportion="1.3957307" vertical-offset="0" max-vertical-offset="1000">
           <caret line="34" column="101" selection-start-line="34" selection-start-column="101" selection-end-line="34" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/11-CheckTheBrackets/bracketsChecker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49261084" vertical-offset="0" max-vertical-offset="775">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/16-CardsFrequencies/cardFrequencies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.041050903" vertical-offset="0" max-vertical-offset="609">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
