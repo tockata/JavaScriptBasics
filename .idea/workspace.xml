@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacfd137-ddb2-45a0-9ec1-9a6745d111df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject/deepCopy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/09-ArrayPrototypeFunction/removeItem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/08-SumOfTwoHugeNumbers/sumTwoHugeNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/14-BiggestTableRow/biggestTableRow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits/courses.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/12-PricesTrends/pricesTrends.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/13-TetrisFigures/tetrisFigures.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptBasics.iws" />
@@ -36,10 +37,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/06-BitChecker/checkingBits.js" />
-        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/07-TheLifetimeSupplyCalculator/lifetimeSupplyCalc.js" />
-        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/08-CylinderVolume/cylinderVol.js" />
-        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/09-TreeOrHouse/treehouse.js" />
         <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/10-DigitChecker/digitChecker.js" />
         <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/11-DigitAsWord/digitAsWord.js" />
         <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/12-Variables/variables.js" />
@@ -87,6 +84,10 @@
         <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/08-SumOfTwoHugeNumbers/sumTwoHugeNumbers.js" />
         <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/09-ArrayPrototypeFunction/removeItem.js" />
         <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject/deepCopy.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/13-TetrisFigures/tetrisFigures.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/12-PricesTrends/pricesTrends.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits/courses.js" />
+        <option value="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/14-BiggestTableRow/biggestTableRow.js" />
       </list>
     </option>
   </component>
@@ -164,7 +165,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -178,42 +179,40 @@
       <recent name="D:\Software_University\Homeworks\JavaScriptBasics\01-JavaScript-Development-Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.deepCopy.js">
-    <configuration default="false" name="countOfDivs.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="countOfDivs.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/06-CountNumberOfDIVs">
+  <component name="RunManager" selected="Node.js.courses.js">
+    <configuration default="false" name="deepCopy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="deepCopy.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <configuration default="false" name="youngestPerson.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="youngestPerson.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/07-FindYoungestPerson">
+    <configuration default="false" name="pricesTrends.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="pricesTrends.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/12-PricesTrends">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <configuration default="false" name="sumTwoHugeNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="sumTwoHugeNumbers.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/08-SumOfTwoHugeNumbers">
+    <configuration default="false" name="tetrisFigures.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="tetrisFigures.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/13-TetrisFigures">
       <RunnerSettings RunnerId="Basic" />
       <RunnerSettings RunnerId="debuggableProgram" />
       <ConfigurationWrapper RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
-    <configuration default="false" name="removeItem.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="removeItem.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/09-ArrayPrototypeFunction">
+    <configuration default="false" name="biggestTableRow.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="biggestTableRow.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/14-BiggestTableRow">
       <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
       <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
-    <configuration default="false" name="deepCopy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="deepCopy.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject">
+    <configuration default="false" name="courses.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="courses.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -221,6 +220,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -244,19 +247,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.countOfDivs.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.youngestPerson.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.sumTwoHugeNumbers.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.removeItem.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.pricesTrends.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.tetrisFigures.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.biggestTableRow.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.courses.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.removeItem.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.sumTwoHugeNumbers.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.youngestPerson.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.countOfDivs.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.courses.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.biggestTableRow.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.tetrisFigures.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.pricesTrends.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
       </list>
     </recent_temporary>
   </component>
@@ -284,26 +287,26 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21961933" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42834646" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26771653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36220473" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984252" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42834646" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -312,9 +315,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21961933" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26771653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36220473" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -335,39 +338,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="30" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/04-CheckIfNumberIsPrime/primeChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="609">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/05-DivisionBy3/divisionChecker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45155993" vertical-offset="0" max-vertical-offset="609">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/06-BitChecker/checkingBits.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1875" vertical-offset="0" max-vertical-offset="475">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/07-TheLifetimeSupplyCalculator/lifetimeSupplyCalc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5813953" vertical-offset="0" max-vertical-offset="387">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/08-CylinderVolume/cylinderVol.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.125" vertical-offset="0" max-vertical-offset="400">
@@ -631,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="625">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.8875839" vertical-offset="0" max-vertical-offset="1275">
           <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45558086" vertical-offset="0" max-vertical-offset="1075">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41050902" vertical-offset="0" max-vertical-offset="609">
           <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.86206895" vertical-offset="0" max-vertical-offset="675">
           <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4614094" vertical-offset="0" max-vertical-offset="625">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -687,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.90311986" vertical-offset="0" max-vertical-offset="1275">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="609">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,6 +669,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="609">
           <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/12-PricesTrends/pricesTrends.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8187919" vertical-offset="133" max-vertical-offset="783">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits/courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8187919" vertical-offset="916" max-vertical-offset="1566">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/14-BiggestTableRow/biggestTableRow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8187919" vertical-offset="970" max-vertical-offset="1620">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/13-TetrisFigures/tetrisFigures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77348995" vertical-offset="1267" max-vertical-offset="1890">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
           <folding />
         </state>
       </provider>
