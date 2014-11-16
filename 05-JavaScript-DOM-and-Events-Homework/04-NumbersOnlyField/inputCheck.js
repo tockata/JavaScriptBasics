@@ -10,3 +10,4 @@ function inputCheck() {
         },500);
     }
 }
+

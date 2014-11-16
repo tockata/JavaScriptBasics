@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacfd137-ddb2-45a0-9ec1-9a6745d111df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/03-HideOddRows/hideOddRows.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/01-LikeUnlikeButton/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/02-DisplayDIVsContent/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/03-HideOddRows/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/05-PrintMouseCoordinates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/01-LikeUnlikeButton/likeUnlike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/10-CloudManager/cloudManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/07-KeepTheChange/keepTheChange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/08-TheNumbers/theNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/09-ToTheStars/toTheStars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js" afterPath="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaScriptBasics.iws" />
@@ -41,10 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/17-ExtractHyperlinks/extractHyperlinks.js" />
-        <option value="$PROJECT_DIR$/02-JavaScript-Syntax-Homework/18-Concerts/concerts.js" />
-        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/01-NumberChecker/numberChecker.js" />
-        <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/02-FindMinAndMaxNumber/test.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/02-FindMinAndMaxNumber/minMaxNumbers.js" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/03-Properties/index.html" />
         <option value="$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/03-Properties/docProperties.js" />
@@ -90,8 +83,12 @@
         <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/03-HideOddRows/index.html" />
         <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/03-HideOddRows/hideOddRows.js" />
         <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/index.html" />
-        <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js" />
         <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/05-PrintMouseCoordinates/index.html" />
+        <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js" />
+        <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/07-KeepTheChange/keepTheChange.js" />
+        <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/08-TheNumbers/theNumbers.js" />
+        <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/09-ToTheStars/toTheStars.js" />
+        <option value="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/10-CloudManager/cloudManager.js" />
       </list>
     </option>
   </component>
@@ -127,7 +124,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,6 +158,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,7 +166,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -183,32 +180,32 @@
       <recent name="D:\Software_University\Homeworks\JavaScriptBasics\01-JavaScript-Development-Introduction" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.courses.js">
-    <configuration default="false" name="deepCopy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="deepCopy.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pricesTrends.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="pricesTrends.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/12-PricesTrends">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
-    <configuration default="false" name="tetrisFigures.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="tetrisFigures.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/13-TetrisFigures">
-      <RunnerSettings RunnerId="Basic" />
-      <RunnerSettings RunnerId="debuggableProgram" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="debuggableProgram" />
-      <method />
-    </configuration>
-    <configuration default="false" name="biggestTableRow.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="biggestTableRow.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/14-BiggestTableRow">
-      <RunnerSettings RunnerId="Basic" />
-      <RunnerSettings RunnerId="debuggableProgram" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="debuggableProgram" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.cloudManager.js">
     <configuration default="false" name="courses.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="courses.js" working-dir="$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="keepTheChange.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="keepTheChange.js" working-dir="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/07-KeepTheChange">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="theNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="theNumbers.js" working-dir="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/08-TheNumbers">
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="toTheStars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="toTheStars.js" working-dir="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/09-ToTheStars">
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cloudManager.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="cloudManager.js" working-dir="$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/10-CloudManager">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
@@ -251,19 +248,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.pricesTrends.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.tetrisFigures.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.biggestTableRow.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.courses.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.courses.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.keepTheChange.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.theNumbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.toTheStars.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.cloudManager.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.courses.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.biggestTableRow.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.tetrisFigures.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.pricesTrends.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.deepCopy.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.cloudManager.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.toTheStars.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.theNumbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.keepTheChange.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.courses.js" />
       </list>
     </recent_temporary>
   </component>
@@ -342,39 +339,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="33" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/02-FindMinAndMaxNumber/minMaxNumbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="675">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/03-Properties/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.882353" vertical-offset="0" max-vertical-offset="400">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/03-Properties/docProperties.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45155993" vertical-offset="0" max-vertical-offset="609">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-JavaScript-Loops-Arrays-Strings-Homework/04-CreateArray/arrayBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6393862" vertical-offset="0" max-vertical-offset="425">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-JavaScript-Syntax-Homework/17-ExtractHyperlinks/extractHyperlinks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12583892" vertical-offset="0" max-vertical-offset="596">
@@ -606,24 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject/deepCopy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="609">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/12-PricesTrends/pricesTrends.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8187919" vertical-offset="133" max-vertical-offset="783">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits/courses.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8187919" vertical-offset="916" max-vertical-offset="1566">
-          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -645,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3546798" vertical-offset="0" max-vertical-offset="609">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80104715" vertical-offset="81" max-vertical-offset="702">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0837697" vertical-offset="0" max-vertical-offset="864">
           <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.65968585" vertical-offset="0" max-vertical-offset="621">
           <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22167487" vertical-offset="0" max-vertical-offset="609">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,15 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.79802954" vertical-offset="0" max-vertical-offset="810">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,10 +646,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/10-DeepCopyOfObject/deepCopy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62068963" vertical-offset="0" max-vertical-offset="609">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/05-PrintMouseCoordinates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71727747" vertical-offset="318" max-vertical-offset="891">
+        <state vertical-scroll-proportion="0.7801047" vertical-offset="282" max-vertical-offset="891">
           <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-JavaScript-Functions-And-Objects-Homework/15-StudentsCoursesGradesVisits/courses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9932886" vertical-offset="0" max-vertical-offset="1566">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/04-NumbersOnlyField/inputCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5763547" vertical-offset="0" max-vertical-offset="609">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/07-KeepTheChange/keepTheChange.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7536946" vertical-offset="0" max-vertical-offset="621">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/08-TheNumbers/theNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5763547" vertical-offset="0" max-vertical-offset="864">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/09-ToTheStars/toTheStars.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.2610838" vertical-offset="0" max-vertical-offset="1539">
+          <caret line="51" column="73" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-JavaScript-DOM-and-Events-Homework/10-CloudManager/cloudManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73399013" vertical-offset="552" max-vertical-offset="1161">
+          <caret line="37" column="81" selection-start-line="37" selection-start-column="81" selection-end-line="37" selection-end-column="81" />
           <folding />
         </state>
       </provider>
