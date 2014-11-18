@@ -24,76 +24,43 @@ function solve(arg) {
         }
     }
 
-    var direction = arrayOfDirections[nextRow][nextCol];
-    var nextDirection = direction;
+    var nextDirection = arrayOfDirections[nextRow][nextCol];
 
     while(!resultFound) {
         switch(nextDirection) {
             case 'dr':
                 nextRow += 1;
                 nextCol += 1;
-                if (nextRow >= rows || nextRow < 0 || nextCol >= cols || nextCol < 0) {
-                    console.log('successed with ' + sum);
-                    resultFound = true;
-                } else if (arrayOfDirections[nextRow][nextCol] === 'x') {
-                    console.log('failed at (' + nextRow + ', ' + nextCol + ')');
-                    resultFound = true;
-                } else {
-                    sum += arrayOfDigits[nextRow][nextCol];
-                    nextDirection = arrayOfDirections[nextRow][nextCol];
-                    arrayOfDirections[nextRow][nextCol] = 'x';
-                    lastRow = nextRow;
-                    lastCol = nextCol;
-                } break;
+                checkAndCalculate(nextRow, nextCol); break;
             case 'ur':
                 nextRow -= 1;
                 nextCol += 1;
-                if (nextRow >= rows || nextRow < 0 || nextCol >= cols || nextCol < 0) {
-                    console.log('successed with ' + sum);
-                    resultFound = true;
-                } else if (arrayOfDirections[nextRow][nextCol] === 'x') {
-                    console.log('failed at (' + nextRow + ', ' + nextCol + ')');
-                    resultFound = true;
-                } else {
-                    sum += arrayOfDigits[nextRow][nextCol];
-                    nextDirection = arrayOfDirections[nextRow][nextCol];
-                    arrayOfDirections[nextRow][nextCol] = 'x';
-                    lastRow = nextRow;
-                    lastCol = nextCol;
-                } break;
+                checkAndCalculate(nextRow, nextCol); break;
             case 'ul':
                 nextRow -= 1;
                 nextCol -= 1;
-                if (nextRow >= rows || nextRow < 0 || nextCol >= cols || nextCol < 0) {
-                    console.log('successed with ' + sum);
-                    resultFound = true;
-                } else if (arrayOfDirections[nextRow][nextCol] === 'x') {
-                    console.log('failed at (' + nextRow + ', ' + nextCol + ')');
-                    resultFound = true;
-                } else {
-                    sum += arrayOfDigits[nextRow][nextCol];
-                    nextDirection = arrayOfDirections[nextRow][nextCol];
-                    arrayOfDirections[nextRow][nextCol] = 'x';
-                    lastRow = nextRow;
-                    lastCol = nextCol;
-                } break;
+                checkAndCalculate(nextRow, nextCol); break;
             case 'dl':
                 nextRow += 1;
                 nextCol -= 1;
-                if (nextRow >= rows || nextRow < 0 || nextCol >= cols || nextCol < 0) {
-                    console.log('successed with ' + sum);
-                    resultFound = true;
-                } else if (arrayOfDirections[nextRow][nextCol] === 'x') {
-                    console.log('failed at (' + nextRow + ', ' + nextCol + ')');
-                    resultFound = true;
-                } else {
-                    sum += arrayOfDigits[nextRow][nextCol];
-                    nextDirection = arrayOfDirections[nextRow][nextCol];
-                    arrayOfDirections[nextRow][nextCol] = 'x';
-                    lastRow = nextRow;
-                    lastCol = nextCol;
-                } break;
+                checkAndCalculate(nextRow, nextCol); break;
             default: break;
+        }
+    }
+
+    function checkAndCalculate(row, col) {
+        if (row >= rows || row < 0 || col >= cols || col < 0) {
+            console.log('successed with ' + sum);
+            resultFound = true;
+        } else if (arrayOfDirections[row][col] === 'x') {
+            console.log('failed at (' + row + ', ' + col + ')');
+            resultFound = true;
+        } else {
+            sum += arrayOfDigits[row][col];
+            nextDirection = arrayOfDirections[row][col];
+            arrayOfDirections[row][col] = 'x';
+            lastRow = row;
+            lastCol = col;
         }
     }
 }
