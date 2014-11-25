@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-BuildTable\bin\01-BuildTable.dll.config
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-BuildTable\bin\01-BuildTable.dll
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-BuildTable\bin\01-BuildTable.pdb
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-BuildTable\obj\Debug\01-BuildTable.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-BuildTable\obj\Debug\01-BuildTable.dll
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-BuildTable\obj\Debug\01-BuildTable.pdb

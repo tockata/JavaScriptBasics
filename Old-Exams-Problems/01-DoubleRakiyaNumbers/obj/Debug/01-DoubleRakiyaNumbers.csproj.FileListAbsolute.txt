@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-DoubleRakiyaNumbers\bin\01-DoubleRakiyaNumbers.dll.config
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-DoubleRakiyaNumbers\bin\01-DoubleRakiyaNumbers.dll
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-DoubleRakiyaNumbers\bin\01-DoubleRakiyaNumbers.pdb
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-DoubleRakiyaNumbers\obj\Debug\01-DoubleRakiyaNumbers.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-DoubleRakiyaNumbers\obj\Debug\01-DoubleRakiyaNumbers.dll
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\01-DoubleRakiyaNumbers\obj\Debug\01-DoubleRakiyaNumbers.pdb

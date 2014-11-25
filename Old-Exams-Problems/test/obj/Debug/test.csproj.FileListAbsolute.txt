@@ -1,0 +1,6 @@
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\test\bin\test.dll.config
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\test\bin\test.dll
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\test\bin\test.pdb
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\test\obj\Debug\test.dll
+D:\Software_University\Homeworks\VS - Javascript Basics\ExamProblems\test\obj\Debug\test.pdb
