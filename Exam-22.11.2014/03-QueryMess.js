@@ -10,8 +10,6 @@
 
             var fieldsToAdd = splittedInput[j].split('=');
             for (var k = 0; k < fieldsToAdd.length; k++) {
-                
-                
                 fieldsToAdd[k] = fieldsToAdd[k].replace(/%20/g, ' ');
                 fieldsToAdd[k] = fieldsToAdd[k].replace(/\+/g, ' ');
                 fieldsToAdd[k] = fieldsToAdd[k].replace(/\s{2,}/g, ' ');
@@ -42,7 +40,6 @@
             }
         }
         console.log(resultStr);
-
         result = {};
     }
 }
